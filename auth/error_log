@@ -1,0 +1,1 @@
+[04-Aug-2018 06:58:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/chuqxnoo/ebrang/auth/get-password.php on line 62

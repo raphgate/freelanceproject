@@ -1,0 +1,7 @@
+[04-Aug-2018 06:57:52 America/New_York] PHP Notice:  Undefined variable: crmcilicense in /home/chuqxnoo/ebrang/admin/invite/crmcontactimporter.php on line 73
+[04-Aug-2018 06:57:52 America/New_York] PHP Notice:  Undefined index: code in /home/chuqxnoo/ebrang/admin/invite/crmcontactimporter.php on line 92
+[04-Aug-2018 06:57:52 America/New_York] PHP Notice:  Undefined index: oauth_token in /home/chuqxnoo/ebrang/admin/invite/crmcontactimporter.php on line 92
+[04-Aug-2018 06:57:52 America/New_York] PHP Notice:  Undefined index: refresh_token in /home/chuqxnoo/ebrang/admin/invite/crmcontactimporter.php on line 92
+[04-Aug-2018 06:57:57 America/New_York] PHP Notice:  Undefined variable: splicense in /home/chuqxnoo/ebrang/admin/invite/socialpost.php on line 64
+[04-Aug-2018 06:57:57 America/New_York] PHP Notice:  Undefined index: code in /home/chuqxnoo/ebrang/admin/invite/socialpost.php on line 82
+[04-Aug-2018 06:57:57 America/New_York] PHP Notice:  Undefined index: oauth_token in /home/chuqxnoo/ebrang/admin/invite/socialpost.php on line 82
